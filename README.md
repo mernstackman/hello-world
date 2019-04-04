@@ -1,2 +1,3 @@
 # hello-world
-Hello World in github.
+Hello World of github.
+This is a test.
