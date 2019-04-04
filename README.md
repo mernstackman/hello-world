@@ -1,4 +1,4 @@
 # hello-world
-Hello World in github.
+Hello World github version.
 
 Just a test to learn how to use github.
